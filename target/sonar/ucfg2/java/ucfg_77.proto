@@ -1,0 +1,102 @@
+
+•com.ordermanagement.Order.dto.OrderDetailsDTO#valueOf(Lcom/ordermanagement/Order/entity/OrderDetails;)Lcom/ordermanagement/Order/dto/OrderDetailsDTO;x
+nC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/OrderDetailsDTO.java5 5(&"1*Ø&
+1x
+nC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/OrderDetailsDTO.java6" 6(7áÞ
+x
+nC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/OrderDetailsDTO.java6& 6(53
+%0-com.ordermanagement.Order.dto.OrderDetailsDTO"-com.ordermanagement.Order.dto.OrderDetailsDTOó
+ð
+x
+nC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/OrderDetailsDTO.java6" 6(7
+%1"7com.ordermanagement.Order.dto.OrderDetailsDTO#<init>()V*5
+3
+%0-com.ordermanagement.Order.dto.OrderDetailsDTOü
+ù
+x
+nC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/OrderDetailsDTO.java6 6(8@
+orderdetailsDTO-com.ordermanagement.Order.dto.OrderDetailsDTO"__id*5
+3
+%0-com.ordermanagement.Order.dto.OrderDetailsDTO²¯
+x
+nC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/OrderDetailsDTO.java7 7(6
+%2java.lang.String"Lcom.ordermanagement.Order.entity.OrderDetails#getAddress()Ljava/lang/String;*?
+=
+orderdetails-com.ordermanagement.Order.entity.OrderDetails2getAddress()ÖÓ
+x
+nC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/OrderDetailsDTO.java7 7(7
+
+%3void"Mcom.ordermanagement.Order.dto.OrderDetailsDTO#setAddress(Ljava/lang/String;)V*B
+@
+orderdetailsDTO-com.ordermanagement.Order.dto.OrderDetailsDTO*
+
+%2java.lang.String2setAddress(Ljava/lang/String;)®«
+x
+nC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/OrderDetailsDTO.java8 8(4
+%4java.lang.Float"Jcom.ordermanagement.Order.entity.OrderDetails#getAmount()Ljava/lang/Float;*?
+=
+orderdetails-com.ordermanagement.Order.entity.OrderDetails2getAmount()ÑÎ
+x
+nC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/OrderDetailsDTO.java8 8(5
+
+%5void"Kcom.ordermanagement.Order.dto.OrderDetailsDTO#setAmount(Ljava/lang/Float;)V*B
+@
+orderdetailsDTO-com.ordermanagement.Order.dto.OrderDetailsDTO*
+
+%4java.lang.Float2setAmount(Ljava/lang/Float;)´±
+x
+nC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/OrderDetailsDTO.java9 9(6
+%6java.lang.Integer"Mcom.ordermanagement.Order.entity.OrderDetails#getBuyerid()Ljava/lang/Integer;*?
+=
+orderdetails-com.ordermanagement.Order.entity.OrderDetails2getBuyerid()ÙÖ
+x
+nC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/OrderDetailsDTO.java9 9(7
+
+%7void"Ncom.ordermanagement.Order.dto.OrderDetailsDTO#setBuyerid(Ljava/lang/Integer;)V*B
+@
+orderdetailsDTO-com.ordermanagement.Order.dto.OrderDetailsDTO*
+
+%6java.lang.Integer2setBuyerid(Ljava/lang/Integer;)¨¥
+x
+nC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/OrderDetailsDTO.java: :(0
+%8java.util.Date"Gcom.ordermanagement.Order.entity.OrderDetails#getDate()Ljava/util/Date;*?
+=
+orderdetails-com.ordermanagement.Order.entity.OrderDetails2	getDate()ÊÇ
+x
+nC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/OrderDetailsDTO.java: :(1
+
+%9void"Hcom.ordermanagement.Order.dto.OrderDetailsDTO#setDate(Ljava/util/Date;)V*B
+@
+orderdetailsDTO-com.ordermanagement.Order.dto.OrderDetailsDTO*
+
+%8java.util.Date2setDate(Ljava/util/Date;)µ²
+x
+nC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/OrderDetailsDTO.java; ;(6
+%10java.lang.Integer"Mcom.ordermanagement.Order.entity.OrderDetails#getOrderid()Ljava/lang/Integer;*?
+=
+orderdetails-com.ordermanagement.Order.entity.OrderDetails2getOrderid()ÛØ
+x
+nC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/OrderDetailsDTO.java; ;(7
+%11void"Ncom.ordermanagement.Order.dto.OrderDetailsDTO#setOrderid(Ljava/lang/Integer;)V*B
+@
+orderdetailsDTO-com.ordermanagement.Order.dto.OrderDetailsDTO*
+
+%10java.lang.Integer2setOrderid(Ljava/lang/Integer;)±®
+x
+nC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/OrderDetailsDTO.java< <(4
+%12java.lang.String"Kcom.ordermanagement.Order.entity.OrderDetails#getStatus()Ljava/lang/String;*?
+=
+orderdetails-com.ordermanagement.Order.entity.OrderDetails2getStatus()ÖÓ
+x
+nC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/OrderDetailsDTO.java< <(5
+%13void"Lcom.ordermanagement.Order.dto.OrderDetailsDTO#setStatus(Ljava/lang/String;)V*B
+@
+orderdetailsDTO-com.ordermanagement.Order.dto.OrderDetailsDTO*
+
+%12java.lang.String2setStatus(Ljava/lang/String;)"¾
+x
+nC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/OrderDetailsDTO.java= =(B
+@
+orderdetailsDTO-com.ordermanagement.Order.dto.OrderDetailsDTO:=
+orderdetails-com.ordermanagement.Order.entity.OrderDetailsB1"/
+-com.ordermanagement.Order.dto.OrderDetailsDTO

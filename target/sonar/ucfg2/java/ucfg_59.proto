@@ -1,0 +1,21 @@
+
+Ycom.ordermanagement.Order.controller.OrderController#getProductsOrdered()Ljava/util/List;
+uC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/controller/OrderController.java%! %(3"1*á
+1
+uC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/controller/OrderController.java&	 &(Œ
+‰
+
+uC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/controller/OrderController.java&	 &(4
+%0.com.ordermanagement.Order.service.OrderService"__id*J*H6
+4com.ordermanagement.Order.controller.OrderController"
+orderService¯¬
+
+uC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/controller/OrderController.java&	 &(#
+%1java.util.List"Lcom.ordermanagement.Order.service.OrderService#getproducts()Ljava/util/List;*6
+4
+%0.com.ordermanagement.Order.service.OrderService2getproducts()"™
+
+uC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/controller/OrderController.java& &($
+
+%1java.util.ListB86
+4com.ordermanagement.Order.controller.OrderController

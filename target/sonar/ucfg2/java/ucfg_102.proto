@@ -1,0 +1,93 @@
+
+qcom.ordermanagement.Order.dto.ProductsOrderedDTO#createEntity()Lcom/ordermanagement/Order/entity/ProductsOrdered;{
+qC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/ProductsOrderedDTO.javaG G($"1*‹(
+1{
+qC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/ProductsOrderedDTO.javaI I(/êç
+{
+qC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/ProductsOrderedDTO.javaI I(-6
+%00com.ordermanagement.Order.entity.ProductsOrdered"0com.ordermanagement.Order.entity.ProductsOrderedü
+ù
+{
+qC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/ProductsOrderedDTO.javaI I(/
+%1":com.ordermanagement.Order.entity.ProductsOrdered#<init>()V*8
+6
+%00com.ordermanagement.Order.entity.ProductsOrderedý
+ú
+{
+qC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/ProductsOrderedDTO.javaI I(0;
+product0com.ordermanagement.Order.entity.ProductsOrdered"__id*8
+6
+%00com.ordermanagement.Order.entity.ProductsOrderedŠ‡
+{
+qC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/ProductsOrderedDTO.javaJ J(7
+%21com.ordermanagement.Order.entity.CompositePrimary"ycom.ordermanagement.Order.entity.ProductsOrdered#getCompositeprimary()Lcom/ordermanagement/Order/entity/CompositePrimary;*=
+;
+product0com.ordermanagement.Order.entity.ProductsOrdered2getCompositeprimary()­ª
+{
+qC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/ProductsOrderedDTO.javaJ* J(:
+%3java.lang.Integer"Ocom.ordermanagement.Order.dto.ProductsOrderedDTO#getProdid()Ljava/lang/Integer;*42
+0com.ordermanagement.Order.dto.ProductsOrderedDTO2getProdid()ÕÒ
+{
+qC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/ProductsOrderedDTO.javaJ J(;
+
+%4void"Qcom.ordermanagement.Order.entity.CompositePrimary#setProdid(Ljava/lang/Integer;)V*9
+7
+%21com.ordermanagement.Order.entity.CompositePrimary*
+
+%3java.lang.Integer2setProdid(Ljava/lang/Integer;)Š‡
+{
+qC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/ProductsOrderedDTO.javaK K(7
+%51com.ordermanagement.Order.entity.CompositePrimary"ycom.ordermanagement.Order.entity.ProductsOrdered#getCompositeprimary()Lcom/ordermanagement/Order/entity/CompositePrimary;*=
+;
+product0com.ordermanagement.Order.entity.ProductsOrdered2getCompositeprimary()¯¬
+{
+qC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/ProductsOrderedDTO.javaK+ K(<
+%6java.lang.Integer"Pcom.ordermanagement.Order.dto.ProductsOrderedDTO#getOrderid()Ljava/lang/Integer;*42
+0com.ordermanagement.Order.dto.ProductsOrderedDTO2getOrderid()×Ô
+{
+qC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/ProductsOrderedDTO.javaK K(=
+
+%7void"Rcom.ordermanagement.Order.entity.CompositePrimary#setOrderid(Ljava/lang/Integer;)V*9
+7
+%51com.ordermanagement.Order.entity.CompositePrimary*
+
+%6java.lang.Integer2setOrderid(Ljava/lang/Integer;)±®
+{
+qC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/ProductsOrderedDTO.javaL L((
+%8java.lang.Integer"Qcom.ordermanagement.Order.dto.ProductsOrderedDTO#getQuantity()Ljava/lang/Integer;*42
+0com.ordermanagement.Order.dto.ProductsOrderedDTO2getQuantity()ÜÙ
+{
+qC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/ProductsOrderedDTO.javaL L()
+
+%9void"Rcom.ordermanagement.Order.entity.ProductsOrdered#setQuantity(Ljava/lang/Integer;)V*=
+;
+product0com.ordermanagement.Order.entity.ProductsOrdered*
+
+%8java.lang.Integer2 setQuantity(Ljava/lang/Integer;)²¯
+{
+qC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/ProductsOrderedDTO.javaM M((
+%10java.lang.Integer"Qcom.ordermanagement.Order.dto.ProductsOrderedDTO#getSellerid()Ljava/lang/Integer;*42
+0com.ordermanagement.Order.dto.ProductsOrderedDTO2getSellerid()ÞÛ
+{
+qC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/ProductsOrderedDTO.javaM M()
+%11void"Rcom.ordermanagement.Order.entity.ProductsOrdered#setSellerid(Ljava/lang/Integer;)V*=
+;
+product0com.ordermanagement.Order.entity.ProductsOrdered*
+
+%10java.lang.Integer2 setSellerid(Ljava/lang/Integer;)¬©
+{
+qC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/ProductsOrderedDTO.javaN N($
+%12java.lang.String"Ncom.ordermanagement.Order.dto.ProductsOrderedDTO#getStatus()Ljava/lang/String;*42
+0com.ordermanagement.Order.dto.ProductsOrderedDTO2getStatus()×Ô
+{
+qC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/ProductsOrderedDTO.javaN N(%
+%13void"Ocom.ordermanagement.Order.entity.ProductsOrdered#setStatus(Ljava/lang/String;)V*=
+;
+product0com.ordermanagement.Order.entity.ProductsOrdered*
+
+%12java.lang.String2setStatus(Ljava/lang/String;)"¼
+{
+qC:/Users/raju suvarna/Downloads/final/OrderMS/src/main/java/com/ordermanagement/Order/dto/ProductsOrderedDTO.javaO O(=
+;
+product0com.ordermanagement.Order.entity.ProductsOrderedB42
+0com.ordermanagement.Order.dto.ProductsOrderedDTO

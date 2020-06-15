@@ -1,0 +1,7 @@
+organization=vineeth7850
+projectKey=vineeth7850_OrderMs
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8621
+dashboardUrl=https://sonarcloud.io/dashboard?id=vineeth7850_OrderMs
+ceTaskId=AXK4cC2Od2UdGDRmDLh8
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXK4cC2Od2UdGDRmDLh8
